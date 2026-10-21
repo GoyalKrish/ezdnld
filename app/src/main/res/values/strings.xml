@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Download</string>
+    <string name="share_label">Easy Download</string>
+
+    <!-- Popup -->
+    <string name="sheet_title">Download this?</string>
+    <string name="from_site">From %1$s</string>
+    <string name="btn_video">🎬  Video</string>
+    <string name="btn_audio">🎵  Audio only (MP3)</string>
+    <string name="btn_small">Smaller video (uses less data)</string>
+    <string name="no_link">I couldn\'t find a link in what you shared.</string>
+    <string name="toast_started">Download started. You can keep using your phone. 👍</string>
+
+    <!-- Notifications / toasts -->
+    <string name="notif_getting_ready">Getting ready…</string>
+    <string name="notif_starting">Starting…</string>
+    <string name="notif_downloading_video">Downloading video</string>
+    <string name="notif_downloading_audio">Downloading audio</string>
+    <string name="notif_done">Download finished ✅</string>
+    <string name="notif_failed">Download didn\'t work</string>
+    <string name="toast_done_video">Done! Find it in your Gallery, in the \"Easy Download\" album.</string>
+    <string name="toast_done_audio">Done! Find it in your Music app, in the \"Easy Download\" folder.</string>
+
+    <!-- Main screen -->
+    <string name="howto">How to use:\n\n1. Open YouTube, Instagram or Facebook\n2. Tap Share on a video\n3. Choose Easy Download\n4. Tap Video or Audio\n\nVideos are saved in your Gallery and songs in your Music app, in a folder called \"Easy Download\".</string>
+    <string name="engine_checking">Checking download engine…</string>
+    <string name="engine_version">Download engine version: %1$s</string>
+    <string name="engine_unknown">Download engine: not ready yet</string>
+    <string name="btn_update">Update download engine</string>
+    <string name="updating">Updating…</string>
+    <string name="update_done">Updated to the latest version.</string>
+    <string name="update_already">Already up to date.</string>
+    <string name="update_failed">Couldn\'t update: %1$s</string>
+    <string name="btn_notifications">Allow notifications</string>
+    <string name="last_problem_title">Last problem</string>
+    <string name="btn_send_details">Send details</string>
+    <string name="send_details_title">Send details</string>
+</resources>
